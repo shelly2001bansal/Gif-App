@@ -1,0 +1,22 @@
+.container{
+  /* height: 580px;
+  width: 1350px;  */
+   height: auto ;
+   width: 100%;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+ background-image: radial-gradient(white 2.5px, transparent 2.5px),
+      radial-gradient(#fafafa 2.5px, transparent 2.5px);
+  background-color: #b1d2ff;
+  background-position: 0 0,18px,18px;
+  background-size: 36px 36px; 
+}
+.back{
+  border-radius: 10px;
+  background-color: white;
+  height: 8%;
+  width: 95%;
+  text-align: center;
+  padding-top: 15px;
+}

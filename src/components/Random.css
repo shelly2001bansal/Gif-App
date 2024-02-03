@@ -1,0 +1,22 @@
+.a1{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid black;
+    height: 50%;
+    width: 40%;
+    border-radius: 10px;
+    background-color: rgb(45, 207, 53);
+}
+.a2{
+    width: 400px;
+    border: none;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    height: 40px;
+    border-radius: 10px;
+}
+.a3{
+    height: 150px;
+    width: 250px;
+}

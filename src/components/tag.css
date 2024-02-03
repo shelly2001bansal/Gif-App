@@ -1,0 +1,33 @@
+.b1{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid black;
+    height: 70%;
+    width: 40%;
+    border-radius: 10px;
+    background-color: blue;
+}
+.b2{
+    width: 400px;
+    border: none;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    height: 40px;
+    border-radius: 10px;
+}
+.b3{
+    height: 150px;
+    width: 250px;
+}
+
+.b4{
+    height: 30px;
+    width: 350px;
+    margin-top: 15px;
+    text-align: center;
+}
+.b5{
+    text-transform: uppercase;
+}
